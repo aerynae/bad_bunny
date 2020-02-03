@@ -1,0 +1,43 @@
+.container{
+	height:800px;
+	width:90%;
+	margin: 20px, 20px, 20px, 25px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+article{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	position: relative;
+	width: 100%
+}
+
+.cover{
+	background-color: yellow;
+
+}
+
+.title{
+	font-size: 25pt;
+	font-family: 'Archivo Black', sans-serif;
+	text-align: center;	
+}
+
+.lyrics{
+	margin: 20px;
+	font-family: 'Montserrat', sans-serif;
+
+
+}
+
+#bunny{
+	width: 100%;
+}
+
+#image{
+	width: 100%
+
+}
+
